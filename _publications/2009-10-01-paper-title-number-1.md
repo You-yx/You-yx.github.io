@@ -3,9 +3,9 @@ title: "Large Language Models Meet Graph Neural Networks: A Perspective of Graph
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about combining LLMs and GNNs to enhance graph mining tasks, proposing three fusion approaches, and exploring efficient integration techniques.'
 date: 2024-12-26
-venue: # 'Journal 1'
+venue: 'Arxiv'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2412.19211'
 citation: 'You, Y., Liu, Z., Wen, X., Zhang, Y., & Ai, W. (2024). Large Language Models Meet Graph Neural Networks: A Perspective of Graph Mining. arXiv preprint arXiv:2412.19211.'
