@@ -15,6 +15,9 @@ Education
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
+<div style="display:none">
+这是一段被注释掉的文字
+
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -40,6 +43,8 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+</div>
 
 Publications
 ======
