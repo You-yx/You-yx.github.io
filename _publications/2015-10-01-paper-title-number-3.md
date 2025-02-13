@@ -1,3 +1,9 @@
+
+
+<h4 id="基于-html-样式">基于 HTML 样式</h4>
+<div style="display:none">
+这是一段被注释掉的文字
+
 ---
 title: "Paper Title Number 3"
 collection: publications
@@ -12,3 +18,6 @@ citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+
+</div>
