@@ -11,13 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science and Technology, University of Electronic Science and Technology of China, 2026 (expected)
+* B.S. in Information and Computing Science, Sun Yat-sen University, 2022
 
-<div style="display:none">
-这是一段被注释掉的文字
 
+<!-- 
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -43,15 +41,17 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+这是一段被注释掉的文字 -->
 
-</div>
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
+<!-- 
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -63,7 +63,15 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+这是一段被注释掉的文字 -->
+
+Award
+======
+* Second-prize Scholarship of UESTC, 2024.
+* Outstanding Graduate Award of UESTC, 2024.
